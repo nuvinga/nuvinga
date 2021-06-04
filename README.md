@@ -18,7 +18,7 @@ _*Or contact me through mail [nu.vv.in@gmail.com](mailto:nu.vv.in@gmail.com)📧
 ### Follow me on
 [![Instagram](https://github.com/nuvinga/nuvinga/blob/f827de7f7974c6e5219296f7672a32878b112f08/small-instagram.jpg)](https://instagram.com/nuvin.ga)
 [![Facebook](https://github.com/nuvinga/nuvinga/blob/f827de7f7974c6e5219296f7672a32878b112f08/facebook.jpg)](https://www.facebook.com/nuvin.godakandaarachchi/)
-[![LinkedIn](https://github.com/nuvinga/nuvinga/blob/302e55358478d136bfcc3ac4c33b14b410c84abb/smaller-linkedin.png)](https://gitpod.io/#https://github.com/badges/shields)
+[![LinkedIn](https://github.com/nuvinga/nuvinga/blob/302e55358478d136bfcc3ac4c33b14b410c84abb/smaller-linkedin.png)](https://www.linkedin.com/in/nuvin-godakanda-arachchi/)
 [![Twitter](https://github.com/nuvinga/nuvinga/blob/c067fb8204634bcf74b6fd5ba8b24562e3371d97/smaller-twitter.png)](https://twitter.com/ArachchiNuvin)
 
 #### Aight, bye now.
