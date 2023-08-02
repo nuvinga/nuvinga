@@ -1,9 +1,9 @@
-### Hey, I'm Nuvin👋
+### Hello there, I'm Nuvin👋
 
-A 21 year old Software Engineer based in Colombo, Sri Lanka 🇱🇰 working at [iTelaSoft](https://www.itelasoft.com.au/), reading for my BE at the [Univeristy of Westminster](https://www.westminster.ac.uk/)
+A 21-year-old graduate software engineer from the [Uni of Westminster](https://www.westminster.ac.uk/) based in Colombo, Sri Lanka 🇱🇰 building amazing tech @ [iTelaSoft](https://www.itelasoft.com.au/) since 2021.
 
-I'm reading for my research in Quantum-Machine Learning and Cryptography. I also love building logical backends behind apps and user-friendly interfaces that shape the world✨ Hop-by my repositories to see some of my work and maybe contribute to where you might see better😉
+Harnessing the power of the quantum phenomenon to accelerate computational capabilities fascinates me 🤩, paving my research focus into quantum-ML & cryptography (Find my research on [ResearchGate](https://www.researchgate.net/profile/Nuvin_Godakanda_Arachchi)). I also love building full-stack tech from its core logical backend to the fun & interactive interfaces that can positively impact the world ✨.
 
-#### Check-out [my portfolio](https://nuvinga.github.io) to find more about me
+Check out <b>[my portfolio](https://nuvinga.github.io) or my repositories </b> to find some exciting open-source contributions I've made. Who knows, maybe you will even find a way to contribute and help make things even better 😉.
 
-Bye now.
+Bye now!
