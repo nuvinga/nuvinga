@@ -6,6 +6,4 @@ I'm currently persuing my masters degree @ the [Robert Gordan University](https:
 
 Harnessing the power of the quantum phenomenon to accelerate computational capabilities fascinates me 🤩, paving my research focus into quantum-ML & cryptography (Find my research on [ResearchGate](https://www.researchgate.net/profile/Nuvin_Godakanda_Arachchi)). I also love building full-stack tech from its core logical backend to the fun & interactive interfaces that can positively impact the world ✨.
 
-Check out <b>[my portfolio](https://nuvinga.github.io) or my repositories </b> to find some exciting open-source contributions I've made. Who knows, maybe you will even find a way to contribute and help make things even better 😉.
-
-Bye now!
+Check out <b>[my portfolio](https://nuvinga.github.io) or my repositories </b> to find some exciting open-source contributions I've made. Bye now!
