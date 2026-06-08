@@ -1,6 +1,6 @@
 ### Hello there, I'm Nuvin👋
 
-A 24-year-old software engineer based in Colombo, Sri Lanka 🇱🇰 with almost 5 years of expertise in FullStack development around JS/TS, .NET, Go and [more](https://nuvinga.github.io), building amazing tech @ [Envision Pharma](https://www.envisionpharmagroup.com/).
+A 24-year-old software engineer based in Colombo, Sri Lanka 🇱🇰 with 5 years of expertise in FullStack development around JS/TS, .NET, Go and [more](https://nuvinga.github.io), building amazing tech @ [Envision Pharma](https://www.envisionpharmagroup.com/).
 
 I'm currently persuing my masters degree @ the [Robert Gordan University](https://rgu.ac.uk/) having graduated from the [Uni Westminster](https://www.westminster.ac.uk/) in 2023 along with 4 years of growth working @ [iTelaSoft](https://itelasoft.com.au) & @[IFS](https://www.ifs.com/en) since 2021. I also am a visiting-lecturer at [Informatics Institute of Technology](https://iit.ac.lk) and research supervisor at [APIIT](https://apiit.lk/).
 
